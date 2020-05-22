@@ -15,6 +15,7 @@ In reality I would like to be more of Russian letter 'Ш' developer with having 
   * Deno
   * .NET
   * Django Channels
+  * Flutter
 ## Non-exhaustive list of general cool tech
   * Azure ecosystem
   * Raspberry Pi 4
